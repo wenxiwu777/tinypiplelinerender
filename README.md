@@ -5,7 +5,7 @@ Thanks to Dmitry V. Sokolov, I've done this simple piple-line render through Sok
 
 It supports the following features:   
 1.three kinds of drawing mode, point, line and triangle  
-2.load and parse .obj model file(currently only support obj file format)  
+2.load and parse .obj model file(currently only supports obj file format)  
 3.texture mapping  
 4.per-vertex lighting(flat, Gouraud)  
 5.per-peixel normal lighting(normal mapping, tagnet space normal mapping)  
