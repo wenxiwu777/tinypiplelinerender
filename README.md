@@ -35,3 +35,4 @@ Anyway, you can see everything in code, mainly the main.cpp. And the rendering i
 I wrote it on mac os, but I guess it has no problem running on win and linux due to all the codes use c/c++ standard 
 library and the drawing surface is TGAImage which uses the std library iteself either.
 
+ 
