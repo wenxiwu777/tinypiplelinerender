@@ -1,7 +1,7 @@
 # tinypiplelinerender
 It is a simple and tiny and pure software 3d render which can draw models in point/line/triangle mode, and also it supports a bunch of classic and basic 3d engine features, please see REAME part for more details.  
 
-Thanks to Dmitry V. Sokolov, I've done this simple piple-line render through Sokolov's course(totally spent 15 days including both learning and programming), it's really a woundful and amzing course, I learned how to write a pure software piple-line render 3 years ago but I never do it in practice somehow, this lesson helped me review related algorithms like Bresenham’s Line, rasterizion of triangles, the back face removal, z-buffer and how to build up a uvw camera system and so on, I'd say the best part of this course is the tiny code sections which is easily to understand and debug, so I can do it right away step by step, it was a great time for doing this.  
+Thanks to Dmitry V. Sokolov, I've done this simple piple-line render through Sokolov's course(totally spent 15 days including both learning and programming), it's really a woundful and amzing course, I learned how to write a pure software piple-line render 3 years ago but I never do it in practice somehow, this lesson helped me review related algorithms like Bresenham’s Line, rasterizion of triangles, the back face removal, z-buffer and how to build up a uvw camera system and so on, I'd say the best part of this course is the tiny code sections which are easily to understand and debug, so I can do it right away step by step, it was a great time for doing this.  
 
 It supports the following features:   
 1.three kinds of drawing mode, point, line and triangle  
