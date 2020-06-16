@@ -32,7 +32,7 @@ something inside you want, and some other classic feature I've not implemented h
 ambient occlusion(in ray tracer this one is very easy).  
   
 Anyway, you can see everything in code, mainly the main.cpp. And the rendering images are in the 'result' folder.
-I wrote it on mac os, but I guess it has no problem running on win and linux due to all the codes use c/c++ standard 
+I wrote it on mac os, but I guess there is no problem running on win and linux due to all the codes use c/c++ standard 
 library and the drawing surface is TGAImage which uses the std library iteself either.  
 
  [!Image result](https://raw.githubusercontent.com/wenxiwu777/tinypiplelinerender/master/result/%E6%88%AA%E5%B1%8F2020-06-15%20%E4%B8%8B%E5%8D%886.25.47.png)
