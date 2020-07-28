@@ -35,4 +35,6 @@ Anyway, you can see everything in code, mainly the main.cpp. And the rendering i
 I wrote it on mac os, but I guess there is no problem running on win and linux due to all the codes use c/c++ standard 
 library and the drawing surface is TGAImage which uses the std library iteself either.  
 
- [!Image result](https://raw.githubusercontent.com/wenxiwu777/tinypiplelinerender/master/result/%E6%88%AA%E5%B1%8F2020-06-15%20%E4%B8%8B%E5%8D%886.25.47.png)
+The following images are rendered by this pipe line render:
+
+![Image text](https://github.com/wenxiwu777/tinypiplelinerender/blob/master/result/截屏2020-06-05 下午3.09.33.png)
