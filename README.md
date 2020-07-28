@@ -38,3 +38,17 @@ library and the drawing surface is TGAImage which uses the std library iteself e
 The following images are rendered by this pipe line render:
 
 ![Image text](https://github.com/wenxiwu777/tinypiplelinerender/blob/master/result/%E6%88%AA%E5%B1%8F2020-06-05%20%E4%B8%8B%E5%8D%882.58.03.png)
+
+![Image text](https://github.com/wenxiwu777/tinypiplelinerender/blob/master/result/%E6%88%AA%E5%B1%8F2020-06-05%20%E4%B8%8B%E5%8D%883.09.33.png)
+
+![Image text](https://github.com/wenxiwu777/tinypiplelinerender/blob/master/result/%E6%88%AA%E5%B1%8F2020-06-06%20%E4%B8%8B%E5%8D%8810.24.54.png)
+
+![Image text](https://github.com/wenxiwu777/tinypiplelinerender/blob/master/result/%E6%88%AA%E5%B1%8F2020-06-07%20%E4%B8%8B%E5%8D%882.19.37.png)
+
+![Image text](https://github.com/wenxiwu777/tinypiplelinerender/blob/master/result/%E6%88%AA%E5%B1%8F2020-06-08%20%E4%B8%8B%E5%8D%888.26.47.png)
+
+![Image text](https://github.com/wenxiwu777/tinypiplelinerender/blob/master/result/%E6%88%AA%E5%B1%8F2020-06-15%20%E4%B8%8A%E5%8D%8810.31.34.png)
+
+![Image text](https://github.com/wenxiwu777/tinypiplelinerender/blob/master/result/%E6%88%AA%E5%B1%8F2020-06-15%20%E4%B8%8B%E5%8D%882.05.41.png)
+
+![Image text](https://github.com/wenxiwu777/tinypiplelinerender/blob/master/result/%E6%88%AA%E5%B1%8F2020-06-15%20%E4%B8%8B%E5%8D%886.25.47.png)
