@@ -37,4 +37,4 @@ library and the drawing surface is TGAImage which uses the std library iteself e
 
 The following images are rendered by this pipe line render:
 
-![Image text](https://github.com/wenxiwu777/tinypiplelinerender/blob/master/result/截屏2020-06-05 下午3.09.33.png)
+![Image text](https://github.com/wenxiwu777/tinypiplelinerender/blob/master/result/%E6%88%AA%E5%B1%8F2020-06-05%20%E4%B8%8B%E5%8D%882.58.03.png)
